@@ -1,4 +1,7 @@
-<img src="images/1637FraudDetection.jpg" align="right" /> <img src="images/Picture1.png" align="left" /> 
+<img src="images/1637FraudDetection.jpg" align="right" />
+<img src="images/Picture1.png" align="left" /> 
+
+
 
 # DS-Seminar-Project
 Automobile Insurance Fraud is one of the main challenges for insurance

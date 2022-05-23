@@ -1,9 +1,10 @@
-<img src="images/1637FraudDetection.jpg" align="right" />
-<img src="images/Picture1.png" align="left" /> 
+<img src="images/Picture1.png" align="center" >
+<img src="images/1637FraudDetection.jpg" align="right" >
+ 
 
 
 
-# DS-Seminar-Project
+# Data Science Seminar Project
 Automobile Insurance Fraud is one of the main challenges for insurance
 companies, causing yearly substantial financial losses worldwide and
 impairing the speed and quality of services to insured customers. In recent
@@ -25,3 +26,8 @@ technique achieved the best performance metrics. We have shown that the test
 results of the chosen model can be used as a preliminary filter of identifying a
 claim fraud for insurance companies and a high confidence that a classified
 non-fraudulent claim is indeed so.
+
+[Seminar Project Link](https://github.com/Eladgo10/DS-Seminar-project-/blob/9c6fabebb3c099f296deddee4a23d6693aae44c2/seminar%20project%20DS-combined.pdf)
+
+[Phyton Notebook Link](https://github.com/Eladgo10/DS-Seminar-project-/blob/9c6fabebb3c099f296deddee4a23d6693aae44c2/seminer-project.ipynb)
+##### Elad Golan & Dov Tuch
